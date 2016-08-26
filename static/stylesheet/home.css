@@ -1,0 +1,106 @@
+body {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.ui.fixed.menu {
+  height: 50px;
+}
+
+.pusher {
+  padding-top: 50px;
+}
+
+img.logo {
+  width: 200px;
+  margin: 3em 0 1em;
+}
+
+/* blockquote styles comes from bootstrap */
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  border-left: 5px solid #eee;
+}
+
+blockquote p {
+    line-height: 1.2em;
+    margin-bottom: .3em
+}
+
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+    margin-bottom: 0
+}
+
+blockquote footer,
+blockquote small,
+blockquote .small {
+    display: block;
+    font-size: 80%;
+    line-height: 1.428571429;
+    color: #999
+}
+
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+    content: '\2014 \00A0'
+}
+
+.tex sub,
+.latex sub,
+.latex sup {
+  text-transform: uppercase;
+  top: auto;
+  bottom: auto;
+}
+
+.tex sub, .latex sub {
+  vertical-align: -0.5ex;
+  margin-left: -0.1667em;
+  margin-right: -0.125em;
+}
+
+.tex, .latex, .tex sub, .latex sub {
+  font-size: 1em;
+}
+
+.image.resume {
+  background-color: white;
+}
+
+.image.resume img {
+  width: 100%;
+}
+
+.latex sup {
+  font-size: 0.85em;
+  vertical-align: 0.15em;
+  margin-left: -0.36em;
+  margin-right: -0.15em;
+}
+
+.ui.alternative.segment {
+  background: #F8F8F8;
+}
+
+.ui.vertical.stripe {
+  padding: 4em 0em;
+}
+
+.ui.vertical.stripe h3 {
+  font-size: 2em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+  margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+
+.footer.segment {
+  padding: 2em 0em;
+}
