@@ -1,0 +1,21 @@
+# -*- mode: yaml; fill-column: 800 -*-
+
+- content:
+    - "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create."
+  author: why the luck stuff
+  from: <a href="http://whymirror.github.io/">http://whymirror.github.io/</a>
+
+- content:
+    - In theory, there is no difference between theory and practice. But, in practice, there is.
+  author: Jan L. A. van de Snepscheut
+  from: <a href="http://en.wikiquote.org/wiki/Jan_L._A._van_de_Snepscheut">Wikipedia</a>
+
+- content:
+    - The future has already arrived. It is just not evenly distributed yet.
+  author: William Gibson
+  from: <a href="https://en.wikiquote.org/wiki/William_Gibson">Wikiquote</a>
+
+- content:
+    - The term kerning also takes on a different meaning. In digital typesetting, kerning is a second advance vector that is added to the first.
+  author: Yannis Haralambous
+  from: <a href="http://shop.oreilly.com/product/9780596102425.do">Fonts and Encodings</a>
