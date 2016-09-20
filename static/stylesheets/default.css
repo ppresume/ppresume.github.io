@@ -107,7 +107,8 @@ img {
   font-feature-settings: "onum" 0;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.65);
   margin: 1.5rem 0 2.5rem 0;
-  padding-top: 2rem; }
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
 .ui.article > .ui.grid > .row.article-head {
   padding-bottom: 1rem; }
 .ui.article > .ui.grid > .row.article-body {
