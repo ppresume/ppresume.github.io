@@ -75,6 +75,9 @@ img {
 .ui.vertical.stripe.segment {
   padding: 4rem 0; }
 .ui.vertical.segment {
+  padding: 0.5rem 0; }
+
+footer.ui.vertical.segment {
   padding: 2rem 0; }
 
 .ui.menu {
